@@ -8,8 +8,9 @@ It's run by calling
 
 **Training yourself**
 
-In order to use this training code, it is necessary to download a dataset (e.g. [VoxCeleb1/2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)).
-They should then be put into folders as follows and the environment variables in Datasets/config.sh updated appropriately (VOX_CELEB_1 is VoxCeleb1, VOX_CELEB_LOCATION VoxCeleb2).
+In order to use this training code, it is necessary to download a dataset.
+To use the [VoxCeleb2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) dataset, download the dataset.
+It should be put into folders as follows and the environment variables updated appropriately: VOX_CELEB_LOCATION should be set to the location of VoxCeleb2.
 
 For our datasets we organised the directories as:
 
